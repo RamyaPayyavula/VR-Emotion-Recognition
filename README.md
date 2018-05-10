@@ -59,5 +59,4 @@ To run the application on cloud only architecture:
 
 	4.	To change number of users: Open visualApp/src/main/java/org/example/basicApp/ writer/MeasurementPutter.java
 
-b.	Go to Line 23 and change numUsers=1 to 5, 10, etc.
 
